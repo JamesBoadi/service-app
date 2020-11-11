@@ -13,6 +13,11 @@ To run the application, unzip the zip and extract it to any location. Navigate t
 Enter the following commands from the terminal
 
 ```
+npm i
+
+```
+
+```
 cd service-app
 ```
 Then
