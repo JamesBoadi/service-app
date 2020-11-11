@@ -14,7 +14,6 @@ Enter the following commands from the terminal
 
 ```
 npm i
-
 ```
 
 ```
