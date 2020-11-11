@@ -24,4 +24,4 @@ Then
 ```
 npm run dev
 ```
-This will run both the development server and server in parallel
+This will run both the development server and nodeJS server in parallel
