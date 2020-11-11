@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "James",
+        "username": "barbie",
+        "lastname": "party",
+        "address": "50 party street",
+        "typeOfUser": "a gnome",
+        "profession": "software",
+        "longtitude": "20.30.11",
+        "latitude": "11.23.12",
+        "sellerReview": "This seller is an asshole"
+    },
+    {
+        "id": "2",
+        "name": "John",
+        "username": "eeek222",
+        "lastname": "sane",
+        "address": "45 bro street",
+        "typeOfUser": "a fortune teller",
+        "profession": "software",
+        "longtitude": "20.30.12",
+        "latitude": "11.45.12",
+        "sellerReview": "This seller is a great guy"
+    }
+]
