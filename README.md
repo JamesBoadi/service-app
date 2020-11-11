@@ -25,3 +25,17 @@ Then
 npm run dev
 ```
 This will run both the development server and nodeJS server in parallel
+
+#### Missing Dependicies 
+
+You can install missing dependicies with one command 
+
+```
+npm-install-missing
+```
+
+Make sure to install the package globally first
+
+```
+npm install -g npm-install-missing
+```
